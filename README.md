@@ -2,9 +2,15 @@
 Desenvolvedor Frontend !!!
 Welcome to my World 🌏
 
-[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=windows&logoColor=white)](mailto:jonesnambundo@hotmail.com)
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jones-nambundo-336085a2/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghustlerecords@gmail.com)
+<a href="mailto:jonesnambundo@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hotmail">
+</a>
+<a href="https://www.linkedin.com/in/jones-nambundo-336085a2/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:ghustlerecords@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 ![Jones GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesnambundo&show_icons=true&theme=dracula)
 
