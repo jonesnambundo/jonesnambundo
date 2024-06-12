@@ -2,8 +2,6 @@
 <h3 align="center" style="color: white;">Hello! I am Jones Nambundo 🙌</h3>
 <h4 align="center" style="color: white;">Frontend Developer !!!</h4>
 <p align="center" style="color: white;">Welcome to my World 🌏</p>
-
-
   <p align="center">
     <a href="mailto:jonesnambundo@hotmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hotmail">
