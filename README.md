@@ -1,6 +1,6 @@
 <div style="background-color: black; padding: 20px; border-radius: 10px;">
 <h3 align="center" style="color: white;">Hello! I am Jones Nambundo 🙌</h3>
-<h4 align="center" style="color: white;">Frontend Developer !!!</h4>
+<h4 align="center" style="color: white;">Frontend Developer !!!!</h4>
 <p align="center" style="color: white;">Welcome to My World 🌏</p>
   <p align="center">
     <a href="mailto:jonesnambundo@hotmail.com" target="_blank">
