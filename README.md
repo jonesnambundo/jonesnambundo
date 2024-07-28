@@ -43,7 +43,7 @@
   <a href="mailto:jonesnambundo@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Hotmail">
   </a>
-  <a href="https://www.linkedin.com/in/jones-nambundo-336085a2/" target="_blank">
+  <a href="https://www.linkedin.com/in/jonesnambundo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ghustlerecords@gmail.com" target="_blank">
