@@ -1,5 +1,5 @@
 <div style="background-color: black; padding: 20px; border-radius: 10px; color: white;">
-  <h3 style="color: white;">Hello! I am Jones Nambundo 🙌</h3>
+  <h3 style="color: Black;">Hello! I am Jones Nambundo 🙌</h3>
   <h4 style="color: white;">Frontend Developer !!!!</h4>
   <p style="color: white;">Welcome to My World 🌏</p>
   <div>
@@ -22,7 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesnambundo" alt="Top Langs">
   </div>
 
-  <h3 style="color: white;">Tecnologias que eu uso no meu dia</h3>
+  <h3 style="color: Black;">Tecnologias que eu uso no meu dia</h3>
   <div>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
