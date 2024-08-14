@@ -3,7 +3,7 @@
 - My name is Jones Nambundo. I have a degree in Information Systems and 2 years of experience as a Frontend Developer.
 
 ## About Me
-- Full Stack Java Developer
+- Full Stack Java Developer.
 - Master's student in Computer Science.
 
 ## My Techs
