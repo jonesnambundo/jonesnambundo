@@ -1,10 +1,10 @@
 ## 👋 Hi there, welcome to my Github profile
 
-- My name is Jones Nambundo. I have a degree in Information Systems and 2 years of experience as a Frontend Developer.
+- My name is Jones Nambundo. I have 2 years of experience as a Frontend Developer.
 
 ## About Me
 - Full Stack Java Developer.
-- Master's student in Computer Science.
+- Student of Systems Analysis and Development.
 
 ## My Techs
 <div align="left">
